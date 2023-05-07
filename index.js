@@ -10,7 +10,7 @@ const cardData = [
         heading: 'Air BnB Visualizations',
         image: './img/airBnbVis.png',
         body: 'Using data from Air Bnb, I created multiple visualizations using Tableau.',
-        buttonAddress: '""',
+        buttonAddress: 'https://public.tableau.com/app/profile/courtenay.boyle6979/viz/AirBnBFullProject_16834704930030/Dashboard1?publish=yes',
         buttonText: 'Read More'
     },
     {
