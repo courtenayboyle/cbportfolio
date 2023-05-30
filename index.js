@@ -2,7 +2,7 @@ const cardData = [
     {
         heading: 'API Python Project',
         image: './img/API_App_Project.png',
-        body: "I created a script to automatically take data from a cryto API using Python. Additionally, I did some data cleaning and created a few visualizations.",
+        body: "I created a script to automatically take data from a crypto API using Python. Additionally, I did some data cleaning and created a few visualizations.",
         buttonAddress: 'https://github.com/courtenayboyle/API-Portfolio-Project.ipynb',
         buttonText: 'READ MORE'
     },
@@ -20,6 +20,13 @@ const cardData = [
         buttonAddress: 'https://courtenayboyle.github.io/restaurantHtmlCssApp/',
         buttonText: 'Check it out!'
     },
+		{
+			heading: 'Chiropractic Website',
+			image: './img/chiro_website.png',
+			body: 'This project is the WHY  I became a Full Stack Engineer! I opened my chiropractic business in 2017 and built this website with help from Word Press. I absolutely fell in love with coding!',
+			buttonAddress: 'https://promochiropractic.com',
+			buttonText: 'READ MORE'
+		},
     {
         heading: 'Excel Visualizations',
         image: './img/Excel_Visualizations.png',
