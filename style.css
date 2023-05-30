@@ -136,7 +136,7 @@ section {
 
 }
 
-.btn {
+.about-me a {
     background-color: rgb(162, 190, 196);
     color: white;
     font-size: 2rem;
@@ -151,10 +151,11 @@ section {
     margin-bottom: 0;
 } 
 
- .btn:hover {
+ .about-me a:hover {
     background-color: rgb(211, 217, 211);
     color: #101010;
     border: 2px;
+		border-radius: .2;
     cursor: pointer;
 } 
 
@@ -299,8 +300,25 @@ section {
     transition: .4s;
     text-transform: uppercase;
 }
-
-
+.contact-me a {
+    background-color: rgb(244, 243, 243);
+    color: rgb(98, 80, 83);
+    font-size: 2rem;
+    letter-spacing: 2px;
+    text-decoration: none;
+    border: 2px solid transparent;
+    border-radius: 30px;
+    font-weight: bold;
+    padding: 13px 30px;
+    margin-right: 35px;
+    transition: .4s;
+    text-transform: uppercase;
+}
+.contact-me a {
+	background-color: rgb(211, 217, 211);;
+	border: 2px transparent;
+	cursor: pointer;
+}
 .btn2:hover {
     background-color: rgb(211, 217, 211);;
     border: 2px transparent;
