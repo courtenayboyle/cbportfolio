@@ -25,14 +25,14 @@ const cardData = [
         image: './img/restaurant_app.png',
         body: 'This is an application that I built using HTML and CSS. This was my first push into front end development!',
         buttonAddress: 'https://courtenayboyle.github.io/restaurantHtmlCssApp/',
-        buttonText: 'Check it out!'
+        buttonText: 'Visit Site'
     },
 		{
-			heading: 'Chiropractic Website',
+			heading: 'Chiropractic App',
 			image: './img/chiro_website.png',
 			body: 'This project is the WHY  I became a Full Stack Engineer! I opened my chiropractic business in 2017 and built this website with help from Word Press. I absolutely fell in love with coding!',
 			buttonAddress: 'https://promochiropractic.com',
-			buttonText: 'READ MORE'
+			buttonText: 'Visit Site'
 		},
     {
         heading: 'Excel Visualizations',
