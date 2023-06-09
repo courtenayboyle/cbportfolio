@@ -6,6 +6,13 @@ const cardData = [
         buttonAddress: 'https://github.com/courtenayboyle/API-Portfolio-Project.ipynb',
         buttonText: 'READ MORE'
     },
+		{
+			heading: 'Page Ranking App',
+			image: './img/pagerank.gif',
+			body: "This Python program crawls a web site and pulls a series of pages into the database, recording the links between pages. It is a set of programs that emulate some of the functions of a search engine. They store their data in a SQLITE3 database. ",
+			buttonAddress: 'https://github.com/courtenayboyle/pageRank',
+			buttonText: 'READ MORE'
+	},
     {
         heading: 'Air BnB Visualizations',
         image: './img/airBnbVis.png',
