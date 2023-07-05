@@ -1,6 +1,6 @@
 # README Generator<br>
-## <b>Title: Portfolio App<br></b>
-## Description: Developed an responsive web application using HTML, CSS and Javascript to showcase projects, certifications, links to social sites and an up-to-date resume.
+# <b>Title: Portfolio App<br></b>
+Description: Developed an responsive web application using HTML, CSS and Javascript to showcase projects, certifications, links to social sites and an up-to-date resume.
 <br>
 Table of Contents<br>
 
