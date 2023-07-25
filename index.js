@@ -1,9 +1,9 @@
 const cardData = [
 	{
-		heading: 'API Python App',
-		image: './img/API_App_Project.png',
-		body: "This is a Python script to automatically take data from a crypto API. Additionally, I did some data cleaning and created a few visualizations.",
-		buttonAddress: 'https://github.com/courtenayboyle/API-Portfolio-Project.ipynb',
+		heading: 'Palindrome Checker',
+		image: './img/palindrome_checker.png',
+		body: "Javascript app that checks if a word or number is a palindrome. Created a UI with HTML and CSS.",
+		buttonAddress: 'https://courtenayboyle.github.io/palindrome_checker/',
 		buttonText: 'READ MORE'
 	},
 	{
@@ -14,11 +14,11 @@ const cardData = [
 		buttonText: 'READ MORE'
 	},
 	{
-		heading: 'Probability Calculator',
-		image: './img/probability_calc.png',
-		body: 'This is a Python program to determine the approximate probability of drawing certain balls randomly from a hat.',
-		buttonAddress: 'https://github.com/courtenayboyle/probability_calculator',
-		buttonText: 'Read More'
+		heading: 'API Python App',
+		image: './img/API_App_Project.png',
+		body: "This is a Python script to automatically take data from a crypto API. Additionally, I did some data cleaning and created a few visualizations.",
+		buttonAddress: 'https://github.com/courtenayboyle/API-Portfolio-Project.ipynb',
+		buttonText: 'READ MORE'
 	},
 	{
 		heading: 'Time Calculator',
@@ -39,6 +39,13 @@ const cardData = [
 		image: './img/shape_calculator.png',
 		body: 'Used object oriented programming in Python to create a Rectangle class and a Square class. The Square class is a subclass of Rectangle that inherits methods and attributes.',
 		buttonAddress: 'https://github.com/courtenayboyle/polygon_area_calculator',
+		buttonText: 'Read More'
+	},
+	{
+		heading: 'Probability Calculator',
+		image: './img/probability_calc.png',
+		body: 'This is a Python program to determine the approximate probability of drawing certain balls randomly from a hat.',
+		buttonAddress: 'https://github.com/courtenayboyle/probability_calculator',
 		buttonText: 'Read More'
 	},
 	{
