@@ -4,7 +4,7 @@ const cardData = [
 		image: './img/palindrome_checker.png',
 		body: "Javascript app that checks if a word or number is a palindrome. Created a UI with HTML and CSS.",
 		buttonAddress: 'https://courtenayboyle.github.io/palindrome_checker/',
-		buttonText: 'READ MORE'
+		buttonText: 'VISIT SITE'
 	},
 	{
 		heading: 'Page Ranking App',
@@ -14,7 +14,7 @@ const cardData = [
 		buttonText: 'READ MORE'
 	},
 	{
-		heading: 'API Python App',
+		heading: 'Python API App',
 		image: './img/API_App_Project.png',
 		body: "This is a Python script to automatically take data from a crypto API. Additionally, I did some data cleaning and created a few visualizations.",
 		buttonAddress: 'https://github.com/courtenayboyle/API-Portfolio-Project.ipynb',
@@ -25,7 +25,7 @@ const cardData = [
 		image: './img/time_calculator.png',
 		body: 'This is a Python App that takes in parameters to include a start time, a duration time, and an optional starting day of the week. I then designed a UI to take user input to calculate a return time and day.',
 		buttonAddress: 'https://time-calculator-kjoj.onrender.com',
-		buttonText: 'Visit Site'
+		buttonText: 'VISIT SITE'
 	},
 	{
 		heading: 'Arithmetic Formatter',
@@ -40,6 +40,13 @@ const cardData = [
 		body: 'Used object oriented programming in Python to create a Rectangle class and a Square class. The Square class is a subclass of Rectangle that inherits methods and attributes.',
 		buttonAddress: 'https://github.com/courtenayboyle/polygon_area_calculator',
 		buttonText: 'Read More'
+	},
+		{
+		heading: 'Phone Number Validator',
+		image: './img/telephone_validator.png',
+		body: 'This is a Javascript app that verifies if a phone number is valid given different formats. A UI was then created to take user input of a phone number and check if valid.',
+		buttonAddress: 'https://courtenayboyle.github.io/telephone_validator/',
+		buttonText: 'VISIT SITE'
 	},
 	{
 		heading: 'Probability Calculator',
