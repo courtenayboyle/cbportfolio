@@ -1,9 +1,9 @@
 const cardData = [
 	{
-		heading: 'Palindrome Checker',
-		image: './img/palindrome_checker.png',
-		body: "Javascript app that checks if a word or number is a palindrome. Created a UI with HTML and CSS.",
-		buttonAddress: 'https://courtenayboyle.github.io/palindrome_checker/',
+		heading: 'Weather App',
+		image: './img/weather_app.png',
+		body: "A user inputs any city in the world and the app will return the city's current temperature, wind speed and humidity percentage.",
+		buttonAddress: 'https://courtenayboyle.github.io/weather_app/',
 		buttonText: 'VISIT SITE'
 	},
 	{
@@ -12,6 +12,13 @@ const cardData = [
 		body: "This Python program crawls a web site and pulls a series of pages into the database, recording the links between pages. It is a set of programs that emulate some of the functions of a search engine. They store their data in a SQLITE3 database. ",
 		buttonAddress: 'https://github.com/courtenayboyle/pageRank',
 		buttonText: 'READ MORE'
+	},
+	{
+		heading: 'Palindrome Checker',
+		image: './img/palindrome_checker.png',
+		body: "Javascript app that checks if a word or number is a palindrome. Created a UI with HTML and CSS.",
+		buttonAddress: 'https://courtenayboyle.github.io/palindrome_checker/',
+		buttonText: 'VISIT SITE'
 	},
 	{
 		heading: 'Python API App',
