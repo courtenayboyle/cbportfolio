@@ -181,9 +181,7 @@ section {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 2rem;
-
 }
-
 .card {
     padding: 2rem;
     box-shadow: 0 0 .4rem .4rem rgb(150, 157, 165);
@@ -194,6 +192,7 @@ section {
     padding-bottom: 100px;
     position: relative;
 }
+
 
 
 .card:hover {

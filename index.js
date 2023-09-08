@@ -1,5 +1,12 @@
 const cardData = [
 	{
+		heading: 'Full Stack e-commerce App',
+		image: './img/coffee_shop_thumbnail.png',
+		body: "A modern full stack e-commerce web application featuring a front end utilizing HTML, CSS, Javascript and Bootstrap. The front end was designed to function similarly to a Single Page Application, creating a friendly and fluid user experience. The backend utilized Node and Express, and Stripe was integrated for payment processing. This application could rapidly and with minor effort be turned into a reliable and repeatable templated application for multiple businesses.",
+		buttonAddress: 'https://coffee-shop-xwct.onrender.com',
+		buttonText: 'VISIT SITE'
+	},
+	{
 		heading: 'Weather App',
 		image: './img/weather_app.png',
 		body: "A user inputs any city in the world and the app will return the city's current temperature, wind speed and humidity percentage.",
@@ -150,4 +157,3 @@ const postMethods = () => {
 	})
 }
 postMethods()
-
